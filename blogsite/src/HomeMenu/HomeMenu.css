@@ -1,0 +1,21 @@
+.side-bar {
+  height: 100%;
+}
+
+.menu-items {
+  list-style: none;
+  background-color: #282c34;
+  margin: 0px;
+  padding: 0px;
+  height: 100%;
+  width: 100%;
+}
+
+.item {
+  background-color: #282c34;
+}
+
+.ui.vertical.menu {
+  width: 100% !important;
+  color: #282c34;
+}
